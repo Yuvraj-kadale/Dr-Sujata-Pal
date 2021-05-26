@@ -1,2 +1,2 @@
-# Dr.-Sujata-Pal
+# Dr Sujata Pal
 A portfolio Site
