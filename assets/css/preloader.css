@@ -17,7 +17,7 @@ body {
 .text {
     color: #fbae17;
     display: inline-block;
-    margin-left: 20px;
+    margin-left: 35px;
     font-size: 35px;
 }
 
@@ -77,5 +77,16 @@ body {
 
     100% {
         top: 0;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .text{
+        margin-left: 20px;
+        font-size: 20px;
+    }
+    .bounceball:before {
+        width: 25px;
+        height: 25px;
     }
 }
